@@ -1,2 +1,2 @@
 Nikhil
-Git tutorial
+Git tutorial repository
